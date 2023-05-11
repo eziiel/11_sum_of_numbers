@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 10rem 0;
+  text-align: center;
+}
+
+button {
+
+  padding: 1rem;
+  border-radius: 10px;
+  border: none;
+  cursor: pointer;
+  
+  background: #a1a1a1;
+  font-weight: bold;
+  text-align: center;
+
+  margin: 2rem 0  ;
+  outline: none;
+}
+button:hover{
+  background: #1f1f;
+  box-shadow: 0 10px 10px rgba(0, 0, 0, 0.9);
+}
